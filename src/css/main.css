@@ -22,3 +22,77 @@ video {
   align-items: center;
   background: #e9e9e9;
 }
+
+.topbar {
+  display: flex;
+  width: 1728px;
+  padding: 20px 50px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.burger {
+  width: 30px;
+  height: 34.286px;
+}
+
+.menu {
+  display: flex;
+  padding: 20px 30px;
+  align-items: flex-start;
+  gap: 20px;
+  border-radius: 32px;
+  background: #fff;
+}
+
+.Entreprise {
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px; /* 120% */
+  text-transform: uppercase;
+}
+
+.Projets {
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px; /* 120% */
+  text-transform: uppercase;
+}
+
+.Actualités {
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px; /* 120% */
+  text-transform: uppercase;
+}
+
+.tools {
+  display: flex;
+  align-items: flex-start;
+}
+
+.fr {
+  display: flex;
+  width: 64px;
+  height: 64px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  background: #fff;
+}
+
+.envelope {
+  display: flex;
+  width: 64px;
+  height: 64px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 32px;
+  background: #fff;
+}
